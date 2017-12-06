@@ -1,9 +1,7 @@
 # Microservices
 
 Microservice Main Website:
-
-microservices.io
-
+http://microservices.io
 https://www.martinfowler.com/articles/microservices.html
 
 Microservice Architecture with Grails
